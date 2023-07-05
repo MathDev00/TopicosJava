@@ -1,6 +1,6 @@
 package list;
 
-//importações necessária para a manipulação da lista
+//importação necessária para a manipulação da lista
 
 import java.util.Arrays;
 import java.util.Iterator;
